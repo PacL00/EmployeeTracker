@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacL00/EmployeeTracker.git"
+  },
+  "author": "Luke Pace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PacL00/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/PacL00/EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "mysql2": "^3.10.1"
+  }
+}
